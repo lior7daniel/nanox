@@ -32,7 +32,7 @@ This command will trigger Terraform to create the AWS resources defined in the `
 
 ## Monitoring Stack
 
-The monitoring stack is installed using Helm, with the monitoring charts available at [nanox-monitoring](https://lior7daniel.github.io/nanox-monitoring-chart). The stack includes essential monitoring tools for Kubernetes clusters.
+The monitoring stack is installed using Helm, with the monitoring charts available at [nanox-monitoring](https://lior7daniel.github.io/nanox-monitoring-chart) ([GitHub Repo](https://github.com/lior7daniel/nanox-monitoring-chart)). The stack includes essential monitoring tools for Kubernetes clusters.
 
 ## Cleanup
 
